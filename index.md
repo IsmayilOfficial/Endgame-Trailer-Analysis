@@ -2,13 +2,13 @@
 
 'Avengers 4: Endgame', released in April 2019, is the 22th movie of the Marvel Universe, gathering the characters in the previous 21 movies, including Iron Man, Captain America, Thor, Hulk, ... The movie has gain lots of spotlights over the world, and is also approaching the box office of 'Avatar'. 
 
-In this work, we analysis the youtube comments of the [Endgame Trailer](https://www.youtube.com/watch?v=TcMBFSGVi1c) on the first 6 weeks. We the effects of time and the characters on the amount, sentiment and the character popularity in the comments. Here's the outline: 
+In this work, we analysis the youtube comments of the [Endgame Trailer](https://www.youtube.com/watch?v=TcMBFSGVi1c) on the first 6 weeks. We use sentiment analysis and wordcloud to help analysis and discuss the effects of time and the characters on the amount, sentiment and the character popularity in the comments. Here's the outline: 
 
-- [Amounts of Comments](#Amounts_of_Comments)
-- [Sentiment Analysis](#Sentiment_Analysis)
-- [Wordcloud](#Wordcloud)
-- [Popularity of Characters](#Popularity_of_Characters)
-- [Conclusion](#Conclusion)
+- Amounts of Comments
+- Sentiment Analysis
+- Wordcloud
+- Popularity of Characters
+- Conclusion
 
 ## Amounts of Comments
 
@@ -55,8 +55,7 @@ The figure above is the wordcloud of all the youtube comments. We can see that t
 
 Some of the biggest words are 'Captain Marvel', 'Whatever take', 'Iron man' and 'Thanos'. The reason that 'Captain Marvel' is mentioned a lot might be that the movie is latest Marvel movie and is also broadcasting at the time the trailer released. 'Whatever it takes' is the line in the movie, also representing the heros' mind on the war. 'Iron man' is the most classic and the first character in the movie, and the comments shown are also conveying its popularity among all the Mavel characters. As 'Thanos' is the enemy in the latest Avenger games, comments are also discussing a lot about the characters.  
 
-<img src="wordcloud_avengers__before.jpg" alt="drawing" width="300"/>
-<img src="wordcloud_avengers__w6.jpg" alt="drawing" width="300"/>   
+<img src="wordcloud_2fig.jpg" alt="drawing" width="540"/>
 
 The left figure is the wordcloud of the comments before the movie release, with the right being comments after release. We can see that there are big differences between the two figures. 
 
